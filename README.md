@@ -1,4 +1,4 @@
-# clean.sh
+- Usage 🙌
 
  Anti-Forensics Bash Script: SSH Log Wiper
 This project demonstrates how attackers may clean up their traces after gaining remote access to a Linux system via SSH. It includes a Bash script that performs full cleanup of forensic artifacts, simulating realistic attacker behavior for Red Team or SOC training labs.
